@@ -5,7 +5,7 @@ import Container from "./Container/Container_temp";
 import Logo from "./Logo";
 import LogoutBtn from "./Header/LogoutBtn_temp";
 import RTE from "./RTE";
-import Signup from "./signup";
+import Signup from "./Signup";
 import Login from "./Login";
 import Button from "./Button";
 import PostForm from "./post-form/PostForm";
